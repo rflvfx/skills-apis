@@ -152,3 +152,4 @@
 - 2026-12-20: Add note
 - 2026-11-02: Expand section
 - 2026-06-03: Fix example
+- 2026-12-12: Minor update
