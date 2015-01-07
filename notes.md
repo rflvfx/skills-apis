@@ -7,3 +7,4 @@
 - 2015-08-28: Expand section
 - 2015-02-08: Polish docs
 - 2015-11-26: Update notes
+- 2015-01-07: Small fix
