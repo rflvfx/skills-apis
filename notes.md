@@ -9,3 +9,4 @@
 - 2015-11-26: Update notes
 - 2015-01-07: Small fix
 - 2015-01-24: Expand section
+- 2015-03-06: Adjust content
