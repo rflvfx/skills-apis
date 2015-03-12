@@ -70,3 +70,4 @@
 - 2015-10-02: Adjust content
 - 2015-06-23: Update guide
 - 2015-08-13: Typo fix
+- 2015-03-12: Typo fix
