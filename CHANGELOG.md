@@ -63,3 +63,4 @@
 - 2015-03-16: Minor update
 - 2015-11-06: Fix example
 - 2015-02-28: Add remark
+- 2015-03-21: Fix example
