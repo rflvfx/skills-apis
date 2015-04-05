@@ -42,3 +42,4 @@
 - 2015-12-18: Small fix
 - 2015-06-23: Adjust content
 - 2015-01-05: Update notes
+- 2015-04-05: Typo fix
