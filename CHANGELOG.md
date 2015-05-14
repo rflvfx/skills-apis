@@ -37,3 +37,4 @@
 - 2015-11-16: Small fix
 - 2015-11-07: Polish docs
 - 2015-01-13: Small fix
+- 2015-05-14: Add remark
