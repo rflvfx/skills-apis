@@ -51,3 +51,4 @@
 - 2015-12-09: Expand section
 - 2015-06-23: Review content
 - 2015-02-07: Small fix
+- 2015-06-14: Refine text
