@@ -40,3 +40,4 @@
 - 2015-05-14: Add remark
 - 2015-03-10: Add remark
 - 2015-12-18: Small fix
+- 2015-06-23: Adjust content
