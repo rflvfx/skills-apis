@@ -68,3 +68,4 @@
 - 2015-05-27: Add remark
 - 2015-08-10: Fix example
 - 2015-10-02: Adjust content
+- 2015-06-23: Update guide
