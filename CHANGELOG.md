@@ -49,3 +49,4 @@
 - 2015-08-17: Fix example
 - 2015-10-26: Add remark
 - 2015-12-09: Expand section
+- 2015-06-23: Review content
