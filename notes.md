@@ -2,3 +2,4 @@
 
 - 2015-07-13: Expand section
 - 2015-08-01: Update notes
+- 2015-09-19: Refine text
