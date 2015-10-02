@@ -67,3 +67,4 @@
 - 2015-11-02: Update guide
 - 2015-05-27: Add remark
 - 2015-08-10: Fix example
+- 2015-10-02: Adjust content
