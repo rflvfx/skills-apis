@@ -11,3 +11,4 @@
 - 2015-01-24: Expand section
 - 2015-03-06: Adjust content
 - 2015-05-27: Minor update
+- 2015-10-03: Polish docs
