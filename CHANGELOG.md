@@ -47,3 +47,4 @@
 - 2015-09-28: Review content
 - 2015-01-17: Refine text
 - 2015-08-17: Fix example
+- 2015-10-26: Add remark
