@@ -32,3 +32,4 @@
 - 2026-10-24: Refine rate limiting guide
 - 2025-02-12: Update documentation
 - 2025-07-14: Update documentation
+- 2015-11-02: Update guide
