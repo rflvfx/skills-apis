@@ -34,3 +34,4 @@
 - 2025-07-14: Update documentation
 - 2015-11-02: Update guide
 - 2015-09-10: Expand section
+- 2015-11-16: Small fix
