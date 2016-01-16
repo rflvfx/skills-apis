@@ -73,3 +73,4 @@
 - 2015-03-12: Typo fix
 - 2016-10-11: Review content
 - 2016-05-26: Fix example
+- 2016-01-16: Expand section
