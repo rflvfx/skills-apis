@@ -112,3 +112,4 @@
 - 2016-10-28: Fix example
 - 2016-10-03: Improve docs
 - 2016-12-09: Add remark
+- 2016-01-16: Review content
