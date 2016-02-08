@@ -89,3 +89,4 @@
 - 2016-11-05: Typo fix
 - 2016-03-07: Update notes
 - 2016-02-04: Fix example
+- 2016-02-08: Add detail
