@@ -102,3 +102,4 @@
 - 2016-05-05: Add detail
 - 2016-11-13: Typo fix
 - 2016-05-16: Update guide
+- 2016-02-10: Small fix
