@@ -90,3 +90,4 @@
 - 2016-03-07: Update notes
 - 2016-02-04: Fix example
 - 2016-02-08: Add detail
+- 2016-02-19: Expand section
