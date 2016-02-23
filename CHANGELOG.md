@@ -95,3 +95,4 @@
 - 2016-11-08: Clarify section
 - 2016-09-19: Add detail
 - 2016-02-23: Update guide
+- 2016-02-23: Add detail
