@@ -77,3 +77,4 @@
 - 2016-04-17: Update guide
 - 2016-04-07: Small fix
 - 2016-08-23: Update notes
+- 2016-03-04: Adjust content
