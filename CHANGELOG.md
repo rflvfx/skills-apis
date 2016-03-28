@@ -105,3 +105,4 @@
 - 2016-02-10: Small fix
 - 2016-09-21: Typo fix
 - 2016-07-02: Refine text
+- 2016-03-28: Improve docs
