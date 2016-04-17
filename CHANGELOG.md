@@ -74,3 +74,4 @@
 - 2016-10-11: Review content
 - 2016-05-26: Fix example
 - 2016-01-16: Expand section
+- 2016-04-17: Update guide
