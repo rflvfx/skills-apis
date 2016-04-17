@@ -85,3 +85,4 @@
 - 2016-04-02: Add note
 - 2016-08-25: Polish docs
 - 2016-05-07: Minor update
+- 2016-04-17: Add remark
