@@ -97,3 +97,4 @@
 - 2016-02-23: Update guide
 - 2016-02-23: Add detail
 - 2016-08-02: Refine text
+- 2016-04-17: Polish docs
