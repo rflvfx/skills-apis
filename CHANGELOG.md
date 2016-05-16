@@ -101,3 +101,4 @@
 - 2016-06-11: Minor update
 - 2016-05-05: Add detail
 - 2016-11-13: Typo fix
+- 2016-05-16: Update guide
