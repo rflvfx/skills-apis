@@ -15,3 +15,4 @@
 - 2015-06-11: Clarify section
 - 2015-06-17: Update guide
 - 2015-07-08: Update notes
+- 2016-06-25: Refine text
