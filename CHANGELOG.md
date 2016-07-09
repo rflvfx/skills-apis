@@ -80,3 +80,4 @@
 - 2016-03-04: Adjust content
 - 2016-12-11: Small fix
 - 2016-06-01: Update notes
+- 2016-07-09: Expand section
