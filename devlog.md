@@ -5,3 +5,4 @@
 - 2018-09-25 — Update notes
 - 2022-12-20 — Add practice notes
 - 2015-11-20 - Refine content
+- 2016-08-07 - Add quick reference
