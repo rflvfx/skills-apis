@@ -81,3 +81,4 @@
 - 2016-12-11: Small fix
 - 2016-06-01: Update notes
 - 2016-07-09: Expand section
+- 2016-10-03: Add detail
