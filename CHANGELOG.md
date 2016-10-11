@@ -71,3 +71,4 @@
 - 2015-06-23: Update guide
 - 2015-08-13: Typo fix
 - 2015-03-12: Typo fix
+- 2016-10-11: Review content
