@@ -109,3 +109,4 @@
 - 2016-02-25: Add remark
 - 2016-01-05: Add remark
 - 2016-06-18: Expand section
+- 2016-10-28: Fix example
