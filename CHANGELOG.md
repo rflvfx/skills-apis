@@ -92,3 +92,4 @@
 - 2016-02-08: Add detail
 - 2016-02-19: Expand section
 - 2016-03-02: Add note
+- 2016-11-08: Clarify section
