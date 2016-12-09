@@ -111,3 +111,4 @@
 - 2016-06-18: Expand section
 - 2016-10-28: Fix example
 - 2016-10-03: Improve docs
+- 2016-12-09: Add remark
