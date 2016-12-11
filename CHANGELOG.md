@@ -78,3 +78,4 @@
 - 2016-04-07: Small fix
 - 2016-08-23: Update notes
 - 2016-03-04: Adjust content
+- 2016-12-11: Small fix
