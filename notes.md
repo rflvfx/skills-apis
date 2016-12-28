@@ -20,3 +20,4 @@
 - 2016-04-20: Update notes
 - 2016-05-02: Small fix
 - 2016-11-09: Update guide
+- 2016-12-28: Typo fix
