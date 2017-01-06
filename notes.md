@@ -34,3 +34,4 @@
 - 2017-05-22: Fix example
 - 2017-03-11: Improve docs
 - 2017-11-18: Review content
+- 2017-01-06: Update notes
