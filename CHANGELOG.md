@@ -147,3 +147,4 @@
 - 2017-01-16: Add detail
 - 2017-06-08: Typo fix
 - 2017-07-22: Expand section
+- 2017-01-06: Minor update
