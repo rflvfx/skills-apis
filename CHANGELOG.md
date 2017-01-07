@@ -129,3 +129,4 @@
 - 2017-10-07: Minor update
 - 2017-01-25: Add remark
 - 2017-09-28: Typo fix
+- 2017-01-07: Clarify section
