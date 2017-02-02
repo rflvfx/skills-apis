@@ -119,3 +119,4 @@
 - 2017-12-05: Review content
 - 2017-06-07: Adjust content
 - 2017-05-07: Minor update
+- 2017-02-02: Update guide
