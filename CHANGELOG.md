@@ -120,3 +120,4 @@
 - 2017-06-07: Adjust content
 - 2017-05-07: Minor update
 - 2017-02-02: Update guide
+- 2017-02-02: Add detail
