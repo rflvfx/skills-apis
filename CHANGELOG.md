@@ -138,3 +138,4 @@
 - 2017-08-14: Typo fix
 - 2017-04-09: Minor update
 - 2017-04-04: Typo fix
+- 2017-02-09: Small fix
