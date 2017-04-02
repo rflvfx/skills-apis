@@ -115,3 +115,4 @@
 - 2016-01-16: Review content
 - 2017-09-19: Small fix
 - 2017-03-04: Update notes
+- 2017-04-02: Typo fix
