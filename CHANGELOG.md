@@ -150,3 +150,4 @@
 - 2017-01-06: Minor update
 - 2017-08-09: Clarify section
 - 2017-03-01: Minor update
+- 2017-05-21: Expand section
