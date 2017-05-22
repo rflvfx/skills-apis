@@ -31,3 +31,4 @@
 - 2017-08-26: Minor update
 - 2017-06-26: Minor update
 - 2017-09-11: Clarify section
+- 2017-05-22: Fix example
