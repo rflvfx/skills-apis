@@ -143,3 +143,4 @@
 - 2017-06-10: Polish docs
 - 2017-12-15: Clarify section
 - 2017-12-26: Add remark
+- 2017-05-28: Add remark
