@@ -36,3 +36,4 @@
 - 2017-11-18: Review content
 - 2017-01-06: Update notes
 - 2017-09-05: Update guide
+- 2017-06-06: Improve docs
