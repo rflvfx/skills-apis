@@ -140,3 +140,4 @@
 - 2017-04-04: Typo fix
 - 2017-02-09: Small fix
 - 2017-02-17: Refine text
+- 2017-06-10: Polish docs
