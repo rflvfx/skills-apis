@@ -1,1 +1,2 @@
 - 2016-03-15: Improve explanation (skills-apis)
+- 2017-07-04: Review and cleanup (skills-apis)
