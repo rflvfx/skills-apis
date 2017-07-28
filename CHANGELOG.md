@@ -132,3 +132,4 @@
 - 2017-01-07: Clarify section
 - 2017-05-23: Small fix
 - 2017-04-02: Refine text
+- 2017-07-28: Typo fix
