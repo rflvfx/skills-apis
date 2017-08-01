@@ -123,3 +123,4 @@
 - 2017-02-02: Add detail
 - 2017-01-08: Minor update
 - 2017-09-13: Improve docs
+- 2017-08-01: Add note
