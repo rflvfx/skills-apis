@@ -148,3 +148,4 @@
 - 2017-06-08: Typo fix
 - 2017-07-22: Expand section
 - 2017-01-06: Minor update
+- 2017-08-09: Clarify section
