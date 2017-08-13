@@ -134,3 +134,4 @@
 - 2017-04-02: Refine text
 - 2017-07-28: Typo fix
 - 2017-11-26: Polish docs
+- 2017-08-13: Review content
