@@ -28,3 +28,4 @@
 - 2016-05-01: Minor update
 - 2017-07-17: Polish docs
 - 2017-03-17: Minor update
+- 2017-08-26: Minor update
