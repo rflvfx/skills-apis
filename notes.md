@@ -30,3 +30,4 @@
 - 2017-03-17: Minor update
 - 2017-08-26: Minor update
 - 2017-06-26: Minor update
+- 2017-09-11: Clarify section
