@@ -122,3 +122,4 @@
 - 2017-02-02: Update guide
 - 2017-02-02: Add detail
 - 2017-01-08: Minor update
+- 2017-09-13: Improve docs
