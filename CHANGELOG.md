@@ -126,3 +126,4 @@
 - 2017-08-01: Add note
 - 2017-12-03: Typo fix
 - 2017-02-18: Update notes
+- 2017-10-07: Minor update
