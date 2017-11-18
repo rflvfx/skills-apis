@@ -33,3 +33,4 @@
 - 2017-09-11: Clarify section
 - 2017-05-22: Fix example
 - 2017-03-11: Improve docs
+- 2017-11-18: Review content
