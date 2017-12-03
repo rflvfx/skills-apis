@@ -124,3 +124,4 @@
 - 2017-01-08: Minor update
 - 2017-09-13: Improve docs
 - 2017-08-01: Add note
+- 2017-12-03: Typo fix
