@@ -142,3 +142,4 @@
 - 2017-02-17: Refine text
 - 2017-06-10: Polish docs
 - 2017-12-15: Clarify section
+- 2017-12-26: Add remark
