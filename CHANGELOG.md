@@ -160,3 +160,4 @@
 - 2018-07-13: Expand section
 - 2018-09-27: Clarify section
 - 2018-06-19: Small fix
+- 2018-01-16: Add remark
