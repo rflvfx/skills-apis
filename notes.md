@@ -44,3 +44,4 @@
 - 2018-02-10: Small fix
 - 2018-03-01: Refine text
 - 2018-11-25: Typo fix
+- 2018-01-22: Polish docs
