@@ -190,3 +190,4 @@
 - 2018-11-28: Polish docs
 - 2018-08-28: Review content
 - 2018-02-12: Add detail
+- 2018-02-17: Refine text
