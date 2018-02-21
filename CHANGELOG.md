@@ -165,3 +165,4 @@
 - 2018-05-17: Add remark
 - 2018-07-19: Clarify section
 - 2018-07-11: Expand section
+- 2018-02-21: Typo fix
