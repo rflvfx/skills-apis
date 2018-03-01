@@ -42,3 +42,4 @@
 - 2017-01-26: Polish docs
 - 2017-02-13: Adjust content
 - 2018-02-10: Small fix
+- 2018-03-01: Refine text
