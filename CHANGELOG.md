@@ -176,3 +176,4 @@
 - 2018-11-20: Fix example
 - 2018-04-22: Fix example
 - 2018-07-23: Expand section
+- 2018-03-24: Add note
