@@ -170,3 +170,4 @@
 - 2018-06-02: Add detail
 - 2018-08-28: Clarify section
 - 2018-09-11: Polish docs
+- 2018-03-25: Clarify section
