@@ -178,3 +178,4 @@
 - 2018-07-23: Expand section
 - 2018-03-24: Add note
 - 2018-12-11: Small fix
+- 2018-05-05: Update guide
