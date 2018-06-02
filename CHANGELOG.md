@@ -167,3 +167,4 @@
 - 2018-07-11: Expand section
 - 2018-02-21: Typo fix
 - 2018-06-20: Fix example
+- 2018-06-02: Add detail
