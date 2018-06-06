@@ -182,3 +182,4 @@
 - 2018-07-28: Add remark
 - 2018-05-21: Fix example
 - 2018-08-21: Improve docs
+- 2018-06-06: Typo fix
