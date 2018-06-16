@@ -185,3 +185,4 @@
 - 2018-06-06: Typo fix
 - 2018-06-11: Fix example
 - 2018-04-26: Review content
+- 2018-06-16: Expand section
