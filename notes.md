@@ -46,3 +46,4 @@
 - 2018-11-25: Typo fix
 - 2018-01-22: Polish docs
 - 2018-06-09: Refine text
+- 2018-08-25: Update notes
