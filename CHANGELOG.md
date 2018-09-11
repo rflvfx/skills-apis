@@ -169,3 +169,4 @@
 - 2018-06-20: Fix example
 - 2018-06-02: Add detail
 - 2018-08-28: Clarify section
+- 2018-09-11: Polish docs
