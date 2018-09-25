@@ -2,3 +2,4 @@
 - 2016-01-10 — Small fixes
 - 2018-08-01 — Fix examples
 - 2018-09-05 — Improve documentation
+- 2018-09-25 — Update notes
