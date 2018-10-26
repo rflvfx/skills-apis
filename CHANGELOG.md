@@ -156,3 +156,4 @@
 - 2018-08-14: Add remark
 - 2018-01-15: Fix example
 - 2018-03-18: Expand section
+- 2018-10-26: Add remark
