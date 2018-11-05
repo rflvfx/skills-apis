@@ -7,3 +7,4 @@
 - 2016-10-27: Review response envelopes section
 - 2017-06-14: Add timeout handling examples
 - 2017-07-20: Update retry logic reference
+- 2018-11-05: Refine etag support guide
