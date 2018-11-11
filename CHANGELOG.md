@@ -8,3 +8,4 @@
 - 2017-06-14: Add timeout handling examples
 - 2017-07-20: Update retry logic reference
 - 2018-11-05: Refine etag support guide
+- 2018-11-11: Add content negotiation notes
