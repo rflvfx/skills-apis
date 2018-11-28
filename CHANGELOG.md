@@ -187,3 +187,4 @@
 - 2018-04-26: Review content
 - 2018-06-16: Expand section
 - 2018-02-22: Small fix
+- 2018-11-28: Polish docs
