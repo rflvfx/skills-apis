@@ -49,3 +49,4 @@
 - 2018-08-25: Update notes
 - 2018-11-16: Clarify section
 - 2018-03-20: Expand section
+- 2018-12-19: Add detail
