@@ -9,3 +9,4 @@
 - 2017-07-20: Update retry logic reference
 - 2018-11-05: Refine etag support guide
 - 2018-11-11: Add content negotiation notes
+- 2018-12-23: Improve rate limiting coverage
