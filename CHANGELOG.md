@@ -198,3 +198,4 @@
 - 2019-03-09: Small fix
 - 2019-08-22: Review content
 - 2019-02-07: Review content
+- 2019-01-12: Typo fix
