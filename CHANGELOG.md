@@ -206,3 +206,4 @@
 - 2019-12-03: Add note
 - 2019-03-11: Adjust content
 - 2019-01-12: Minor update
+- 2019-01-14: Review content
