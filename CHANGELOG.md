@@ -208,3 +208,4 @@
 - 2019-01-12: Minor update
 - 2019-01-14: Review content
 - 2019-03-08: Polish docs
+- 2019-01-23: Update notes
