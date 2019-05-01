@@ -228,3 +228,4 @@
 - 2019-08-28: Clarify section
 - 2019-05-21: Polish docs
 - 2019-08-10: Typo fix
+- 2019-05-01: Clarify section
