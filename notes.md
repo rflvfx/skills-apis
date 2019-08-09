@@ -56,3 +56,4 @@
 - 2019-07-05: Minor update
 - 2019-05-04: Add note
 - 2019-07-28: Expand section
+- 2019-08-09: Minor update
