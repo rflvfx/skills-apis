@@ -227,3 +227,4 @@
 - 2019-01-22: Fix example
 - 2019-08-28: Clarify section
 - 2019-05-21: Polish docs
+- 2019-08-10: Typo fix
