@@ -60,3 +60,4 @@
 - 2019-06-12: Small fix
 - 2019-12-16: Add detail
 - 2019-12-04: Refine text
+- 2019-08-17: Add detail
