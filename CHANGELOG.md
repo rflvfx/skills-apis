@@ -233,3 +233,4 @@
 - 2019-06-24: Expand section
 - 2019-10-28: Add remark
 - 2019-06-18: Adjust content
+- 2019-08-21: Refine text
