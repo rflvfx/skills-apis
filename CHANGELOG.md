@@ -236,3 +236,4 @@
 - 2019-08-21: Refine text
 - 2019-11-19: Review content
 - 2019-09-12: Add detail
+- 2019-09-04: Improve docs
