@@ -63,3 +63,4 @@
 - 2019-08-17: Add detail
 - 2019-06-24: Improve docs
 - 2019-11-18: Minor update
+- 2019-10-04: Update guide
