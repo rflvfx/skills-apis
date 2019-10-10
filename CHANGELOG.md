@@ -201,3 +201,4 @@
 - 2019-01-12: Typo fix
 - 2019-02-06: Polish docs
 - 2019-11-03: Minor update
+- 2019-10-10: Polish docs
