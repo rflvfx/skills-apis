@@ -231,3 +231,4 @@
 - 2019-05-01: Clarify section
 - 2019-10-28: Clarify section
 - 2019-06-24: Expand section
+- 2019-10-28: Add remark
