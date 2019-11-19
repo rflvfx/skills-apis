@@ -234,3 +234,4 @@
 - 2019-10-28: Add remark
 - 2019-06-18: Adjust content
 - 2019-08-21: Refine text
+- 2019-11-19: Review content
