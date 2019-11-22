@@ -11,3 +11,4 @@
 - 2018-11-11: Add content negotiation notes
 - 2018-12-23: Improve rate limiting coverage
 - 2019-05-13: Improve error format coverage
+- 2019-11-22: Add webhook delivery examples
