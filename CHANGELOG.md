@@ -223,3 +223,4 @@
 - 2019-07-22: Fix example
 - 2019-08-02: Fix example
 - 2019-06-16: Adjust content
+- 2019-11-23: Update guide
