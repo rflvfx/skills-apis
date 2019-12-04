@@ -59,3 +59,4 @@
 - 2019-08-09: Minor update
 - 2019-06-12: Small fix
 - 2019-12-16: Add detail
+- 2019-12-04: Refine text
