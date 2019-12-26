@@ -51,3 +51,4 @@
 - 2018-03-20: Expand section
 - 2018-12-19: Add detail
 - 2018-03-23: Adjust content
+- 2019-12-26: Review content
