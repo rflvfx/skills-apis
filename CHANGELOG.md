@@ -274,3 +274,4 @@
 - 2020-11-15: Polish docs
 - 2020-10-28: Minor update
 - 2020-05-14: Adjust content
+- 2020-01-11: Improve docs
