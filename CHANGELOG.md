@@ -240,3 +240,4 @@
 - 2020-09-15: Adjust content
 - 2020-02-28: Small fix
 - 2020-07-10: Refine text
+- 2020-01-16: Add detail
