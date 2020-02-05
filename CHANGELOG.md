@@ -276,3 +276,4 @@
 - 2020-05-14: Adjust content
 - 2020-01-11: Improve docs
 - 2020-03-27: Refine text
+- 2020-02-05: Polish docs
