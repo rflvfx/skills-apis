@@ -68,3 +68,4 @@
 - 2020-10-03: Small fix
 - 2020-06-01: Clarify section
 - 2020-09-17: Small fix
+- 2020-03-09: Refine text
