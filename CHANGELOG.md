@@ -261,3 +261,4 @@
 - 2020-10-16: Adjust content
 - 2020-11-05: Polish docs
 - 2020-01-12: Add note
+- 2020-03-11: Add detail
