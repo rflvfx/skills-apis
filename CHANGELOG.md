@@ -262,3 +262,4 @@
 - 2020-11-05: Polish docs
 - 2020-01-12: Add note
 - 2020-03-11: Add detail
+- 2020-03-17: Improve docs
