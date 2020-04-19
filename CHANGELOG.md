@@ -13,3 +13,4 @@
 - 2019-05-13: Improve error format coverage
 - 2019-11-22: Add webhook delivery examples
 - 2020-02-11: Review api authentication section
+- 2020-04-19: Update cors config reference
