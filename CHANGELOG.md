@@ -250,3 +250,4 @@
 - 2020-12-22: Refine text
 - 2020-02-15: Add remark
 - 2020-04-12: Update guide
+- 2020-05-04: Minor update
