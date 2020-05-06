@@ -265,3 +265,4 @@
 - 2020-03-17: Improve docs
 - 2020-01-22: Expand section
 - 2020-09-20: Review content
+- 2020-05-06: Fix example
