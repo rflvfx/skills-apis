@@ -71,3 +71,4 @@
 - 2020-03-09: Refine text
 - 2020-11-19: Improve docs
 - 2020-02-21: Review content
+- 2020-05-19: Polish docs
