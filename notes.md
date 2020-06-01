@@ -66,3 +66,4 @@
 - 2019-10-04: Update guide
 - 2020-12-05: Expand section
 - 2020-10-03: Small fix
+- 2020-06-01: Clarify section
