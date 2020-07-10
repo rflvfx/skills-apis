@@ -239,3 +239,4 @@
 - 2019-09-04: Improve docs
 - 2020-09-15: Adjust content
 - 2020-02-28: Small fix
+- 2020-07-10: Refine text
