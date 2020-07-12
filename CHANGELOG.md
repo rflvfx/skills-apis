@@ -253,3 +253,4 @@
 - 2020-05-04: Minor update
 - 2020-11-20: Expand section
 - 2020-01-13: Adjust content
+- 2020-07-12: Add note
