@@ -245,3 +245,4 @@
 - 2020-01-15: Update guide
 - 2020-10-19: Improve docs
 - 2020-08-24: Clarify section
+- 2020-07-19: Review content
