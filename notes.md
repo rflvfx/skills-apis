@@ -75,3 +75,4 @@
 - 2020-03-16: Refine text
 - 2020-09-02: Improve docs
 - 2020-12-17: Clarify section
+- 2020-09-05: Update guide
