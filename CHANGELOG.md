@@ -243,3 +243,4 @@
 - 2020-01-16: Add detail
 - 2020-06-19: Adjust content
 - 2020-01-15: Update guide
+- 2020-10-19: Improve docs
