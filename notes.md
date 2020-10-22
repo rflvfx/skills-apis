@@ -76,3 +76,4 @@
 - 2020-09-02: Improve docs
 - 2020-12-17: Clarify section
 - 2020-09-05: Update guide
+- 2020-10-22: Add note
