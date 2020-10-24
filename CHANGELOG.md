@@ -15,3 +15,4 @@
 - 2020-02-11: Review api authentication section
 - 2020-04-19: Update cors config reference
 - 2020-07-15: Add input sanitization examples
+- 2020-10-24: Expand response envelopes docs
