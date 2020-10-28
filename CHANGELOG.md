@@ -268,3 +268,4 @@
 - 2020-05-06: Fix example
 - 2020-07-05: Clarify section
 - 2020-09-20: Fix example
+- 2020-10-28: Clarify section
