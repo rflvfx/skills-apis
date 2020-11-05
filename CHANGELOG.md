@@ -259,3 +259,4 @@
 - 2020-03-05: Add note
 - 2020-03-19: Small fix
 - 2020-10-16: Adjust content
+- 2020-11-05: Polish docs
