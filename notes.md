@@ -69,3 +69,4 @@
 - 2020-06-01: Clarify section
 - 2020-09-17: Small fix
 - 2020-03-09: Refine text
+- 2020-11-19: Improve docs
