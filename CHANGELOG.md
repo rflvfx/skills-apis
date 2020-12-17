@@ -255,3 +255,4 @@
 - 2020-01-13: Adjust content
 - 2020-07-12: Add note
 - 2020-02-01: Add detail
+- 2020-12-17: Update notes
