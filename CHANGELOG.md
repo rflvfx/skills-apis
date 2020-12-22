@@ -247,3 +247,4 @@
 - 2020-08-24: Clarify section
 - 2020-07-19: Review content
 - 2020-12-03: Add remark
+- 2020-12-22: Refine text
