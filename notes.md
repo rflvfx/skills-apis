@@ -83,3 +83,4 @@
 - 2021-06-09: Add note
 - 2021-08-10: Adjust content
 - 2021-06-02: Update notes
+- 2021-01-02: Adjust content
