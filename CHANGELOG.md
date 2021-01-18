@@ -315,3 +315,4 @@
 - 2021-10-14: Typo fix
 - 2021-09-19: Update notes
 - 2021-07-01: Typo fix
+- 2021-01-18: Improve docs
