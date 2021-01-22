@@ -16,3 +16,4 @@
 - 2020-04-19: Update cors config reference
 - 2020-07-15: Add input sanitization examples
 - 2020-10-24: Expand response envelopes docs
+- 2021-01-22: Add health checks examples
