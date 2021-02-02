@@ -17,3 +17,4 @@
 - 2020-07-15: Add input sanitization examples
 - 2020-10-24: Expand response envelopes docs
 - 2021-01-22: Add health checks examples
+- 2021-02-02: Review request logging section
