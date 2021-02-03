@@ -298,3 +298,4 @@
 - 2021-01-02: Adjust content
 - 2021-10-23: Add detail
 - 2021-11-11: Fix example
+- 2021-02-03: Clarify section
