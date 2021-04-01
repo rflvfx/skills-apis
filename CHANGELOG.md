@@ -287,3 +287,4 @@
 - 2021-02-09: Adjust content
 - 2021-09-19: Polish docs
 - 2021-08-16: Refine text
+- 2021-04-01: Clarify section
