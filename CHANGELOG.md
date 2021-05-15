@@ -291,3 +291,4 @@
 - 2021-01-14: Update guide
 - 2021-07-27: Add remark
 - 2021-08-23: Update notes
+- 2021-05-15: Clarify section
