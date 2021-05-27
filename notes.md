@@ -79,3 +79,4 @@
 - 2020-10-22: Add note
 - 2021-12-07: Update guide
 - 2021-03-02: Small fix
+- 2021-05-27: Expand section
