@@ -88,3 +88,4 @@
 - 2021-06-20: Refine text
 - 2021-09-11: Update guide
 - 2021-07-15: Small fix
+- 2021-06-18: Polish docs
