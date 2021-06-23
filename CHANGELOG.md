@@ -301,3 +301,4 @@
 - 2021-02-03: Clarify section
 - 2021-12-23: Review content
 - 2021-01-25: Polish docs
+- 2021-06-23: Minor update
