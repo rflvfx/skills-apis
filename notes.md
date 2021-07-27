@@ -90,3 +90,4 @@
 - 2021-07-15: Small fix
 - 2021-06-18: Polish docs
 - 2021-11-23: Clarify section
+- 2021-07-27: Polish docs
