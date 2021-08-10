@@ -81,3 +81,4 @@
 - 2021-03-02: Small fix
 - 2021-05-27: Expand section
 - 2021-06-09: Add note
+- 2021-08-10: Adjust content
