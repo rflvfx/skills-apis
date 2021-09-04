@@ -318,3 +318,4 @@
 - 2021-01-18: Improve docs
 - 2021-09-08: Review content
 - 2021-06-23: Add detail
+- 2021-09-04: Update notes
