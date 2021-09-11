@@ -86,3 +86,4 @@
 - 2021-01-02: Adjust content
 - 2021-03-16: Minor update
 - 2021-06-20: Refine text
+- 2021-09-11: Update guide
