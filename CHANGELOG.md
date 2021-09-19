@@ -285,3 +285,4 @@
 - 2021-02-12: Update guide
 - 2021-09-07: Refine text
 - 2021-02-09: Adjust content
+- 2021-09-19: Polish docs
