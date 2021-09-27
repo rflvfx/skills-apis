@@ -320,3 +320,4 @@
 - 2021-06-23: Add detail
 - 2021-09-04: Update notes
 - 2021-11-08: Fix example
+- 2021-09-27: Update guide
