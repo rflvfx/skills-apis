@@ -312,3 +312,4 @@
 - 2021-11-19: Review content
 - 2021-05-13: Typo fix
 - 2021-05-17: Clarify section
+- 2021-10-14: Typo fix
