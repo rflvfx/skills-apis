@@ -296,3 +296,4 @@
 - 2021-04-04: Improve docs
 - 2021-06-12: Adjust content
 - 2021-01-02: Adjust content
+- 2021-10-23: Add detail
