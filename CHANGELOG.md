@@ -343,3 +343,4 @@
 - 2022-04-15: Polish docs
 - 2022-12-20: Clarify section
 - 2022-05-27: Review content
+- 2022-01-23: Small fix
