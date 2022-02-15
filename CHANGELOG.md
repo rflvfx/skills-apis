@@ -344,3 +344,4 @@
 - 2022-12-20: Clarify section
 - 2022-05-27: Review content
 - 2022-01-23: Small fix
+- 2022-02-15: Update notes
