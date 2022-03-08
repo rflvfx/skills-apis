@@ -93,3 +93,4 @@
 - 2021-07-27: Polish docs
 - 2022-12-06: Refine text
 - 2022-02-14: Adjust content
+- 2022-03-08: Typo fix
