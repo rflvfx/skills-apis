@@ -100,3 +100,4 @@
 - 2022-03-07: Refine text
 - 2022-04-22: Fix example
 - 2022-09-07: Clarify section
+- 2022-04-23: Small fix
