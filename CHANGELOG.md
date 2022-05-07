@@ -352,3 +352,4 @@
 - 2022-01-28: Polish docs
 - 2022-07-22: Refine text
 - 2022-09-03: Minor update
+- 2022-05-07: Fix example
