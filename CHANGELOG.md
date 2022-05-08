@@ -347,3 +347,4 @@
 - 2022-02-15: Update notes
 - 2022-04-26: Add note
 - 2022-11-05: Adjust content
+- 2022-05-08: Add detail
