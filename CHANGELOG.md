@@ -325,3 +325,4 @@
 - 2022-10-18: Review content
 - 2022-02-11: Small fix
 - 2022-03-18: Adjust content
+- 2022-05-15: Update guide
