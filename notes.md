@@ -104,3 +104,4 @@
 - 2022-03-04: Fix example
 - 2022-03-27: Fix example
 - 2022-10-20: Typo fix
+- 2022-06-02: Fix example
