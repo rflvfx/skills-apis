@@ -338,3 +338,4 @@
 - 2022-03-18: Refine text
 - 2022-10-21: Add note
 - 2022-03-08: Clarify section
+- 2022-06-08: Update guide
