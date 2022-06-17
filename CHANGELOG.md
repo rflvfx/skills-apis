@@ -359,3 +359,4 @@
 - 2022-09-01: Add remark
 - 2022-08-19: Minor update
 - 2022-08-25: Polish docs
+- 2022-06-17: Update guide
