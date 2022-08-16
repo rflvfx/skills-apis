@@ -333,3 +333,4 @@
 - 2022-06-14: Expand section
 - 2022-05-06: Add note
 - 2022-04-19: Add note
+- 2022-08-16: Polish docs
