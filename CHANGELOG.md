@@ -358,3 +358,4 @@
 - 2022-10-22: Add detail
 - 2022-09-01: Add remark
 - 2022-08-19: Minor update
+- 2022-08-25: Polish docs
