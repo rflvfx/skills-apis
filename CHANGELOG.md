@@ -328,3 +328,4 @@
 - 2022-05-15: Update guide
 - 2022-03-20: Update guide
 - 2022-06-16: Add detail
+- 2022-10-17: Minor update
