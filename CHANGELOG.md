@@ -19,3 +19,4 @@
 - 2021-01-22: Add health checks examples
 - 2021-02-02: Review request logging section
 - 2021-08-26: Update retry logic reference
+- 2022-10-18: Add content negotiation examples
