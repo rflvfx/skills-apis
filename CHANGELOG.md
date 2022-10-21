@@ -336,3 +336,4 @@
 - 2022-08-16: Polish docs
 - 2022-08-19: Add remark
 - 2022-03-18: Refine text
+- 2022-10-21: Add note
