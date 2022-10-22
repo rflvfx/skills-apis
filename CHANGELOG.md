@@ -355,3 +355,4 @@
 - 2022-05-07: Fix example
 - 2022-12-18: Typo fix
 - 2022-09-02: Minor update
+- 2022-10-22: Add detail
