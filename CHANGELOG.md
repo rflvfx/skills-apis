@@ -20,3 +20,4 @@
 - 2021-02-02: Review request logging section
 - 2021-08-26: Update retry logic reference
 - 2022-10-18: Add content negotiation examples
+- 2022-11-05: Document rate limiting
