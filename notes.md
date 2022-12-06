@@ -91,3 +91,4 @@
 - 2021-06-18: Polish docs
 - 2021-11-23: Clarify section
 - 2021-07-27: Polish docs
+- 2022-12-06: Refine text
