@@ -362,3 +362,4 @@
 - 2022-06-17: Update guide
 - 2022-06-02: Review content
 - 2022-11-10: Minor update
+- 2022-12-15: Expand section
