@@ -3,3 +3,4 @@
 - 2018-08-01 — Fix examples
 - 2018-09-05 — Improve documentation
 - 2018-09-25 — Update notes
+- 2022-12-20 — Add practice notes
