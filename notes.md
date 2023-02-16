@@ -110,3 +110,4 @@
 - 2023-04-07: Improve docs
 - 2023-03-23: Update guide
 - 2023-08-21: Refine text
+- 2023-02-16: Adjust content
