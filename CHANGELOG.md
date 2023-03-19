@@ -21,3 +21,4 @@
 - 2021-08-26: Update retry logic reference
 - 2022-10-18: Add content negotiation examples
 - 2022-11-05: Document rate limiting
+- 2023-03-19: Add response caching notes
