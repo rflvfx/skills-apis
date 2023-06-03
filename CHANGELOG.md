@@ -398,3 +398,4 @@
 - 2023-07-07: Minor update
 - 2023-01-25: Small fix
 - 2023-05-17: Add remark
+- 2023-06-03: Improve docs
