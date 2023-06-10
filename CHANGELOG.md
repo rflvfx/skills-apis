@@ -380,3 +380,4 @@
 - 2023-06-03: Adjust content
 - 2023-10-08: Improve docs
 - 2023-08-28: Add remark
+- 2023-06-10: Add note
