@@ -395,3 +395,4 @@
 - 2023-12-07: Improve docs
 - 2023-08-04: Add note
 - 2023-01-13: Refine text
+- 2023-07-07: Minor update
