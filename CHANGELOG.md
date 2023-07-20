@@ -368,3 +368,4 @@
 - 2023-09-01: Review content
 - 2023-12-23: Fix example
 - 2023-05-27: Small fix
+- 2023-07-20: Refine text
