@@ -370,3 +370,4 @@
 - 2023-05-27: Small fix
 - 2023-07-20: Refine text
 - 2023-10-07: Typo fix
+- 2023-07-25: Polish docs
