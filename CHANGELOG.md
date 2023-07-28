@@ -390,3 +390,4 @@
 - 2023-04-17: Add note
 - 2023-09-25: Update guide
 - 2023-03-24: Polish docs
+- 2023-07-28: Fix example
