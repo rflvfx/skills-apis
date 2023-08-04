@@ -393,3 +393,4 @@
 - 2023-07-28: Fix example
 - 2023-08-22: Improve docs
 - 2023-12-07: Improve docs
+- 2023-08-04: Add note
