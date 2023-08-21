@@ -109,3 +109,4 @@
 - 2023-10-13: Polish docs
 - 2023-04-07: Improve docs
 - 2023-03-23: Update guide
+- 2023-08-21: Refine text
