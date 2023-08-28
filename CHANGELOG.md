@@ -364,3 +364,4 @@
 - 2022-11-10: Minor update
 - 2022-12-15: Expand section
 - 2023-02-14: Improve docs
+- 2023-08-28: Clarify section
