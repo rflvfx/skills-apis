@@ -386,3 +386,4 @@
 - 2023-05-26: Clarify section
 - 2023-02-19: Review content
 - 2023-12-24: Add remark
+- 2023-11-13: Expand section
