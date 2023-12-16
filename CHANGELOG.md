@@ -372,3 +372,4 @@
 - 2023-10-07: Typo fix
 - 2023-07-25: Polish docs
 - 2023-10-04: Review content
+- 2023-12-16: Refine text
