@@ -385,3 +385,4 @@
 - 2023-08-27: Update notes
 - 2023-05-26: Clarify section
 - 2023-02-19: Review content
+- 2023-12-24: Add remark
