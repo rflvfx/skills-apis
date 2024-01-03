@@ -422,3 +422,4 @@
 - 2024-08-09: Clarify section
 - 2024-06-12: Update notes
 - 2024-12-24: Review content
+- 2024-01-03: Polish docs
