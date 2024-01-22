@@ -120,3 +120,4 @@
 - 2024-03-28: Typo fix
 - 2024-05-04: Expand section
 - 2024-05-04: Minor update
+- 2024-01-22: Adjust content
