@@ -433,3 +433,4 @@
 - 2024-08-15: Typo fix
 - 2024-09-12: Add detail
 - 2024-01-12: Review content
+- 2024-01-25: Minor update
