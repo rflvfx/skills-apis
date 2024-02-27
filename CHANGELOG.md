@@ -410,3 +410,4 @@
 - 2023-06-05: Fix example
 - 2023-02-16: Add note
 - 2023-02-14: Typo fix
+- 2024-02-27: Refine text
