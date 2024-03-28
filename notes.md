@@ -117,3 +117,4 @@
 - 2024-11-17: Polish docs
 - 2024-04-13: Minor update
 - 2024-01-23: Add note
+- 2024-03-28: Typo fix
