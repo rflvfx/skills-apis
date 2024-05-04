@@ -119,3 +119,4 @@
 - 2024-01-23: Add note
 - 2024-03-28: Typo fix
 - 2024-05-04: Expand section
+- 2024-05-04: Minor update
