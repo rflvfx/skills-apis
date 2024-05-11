@@ -412,3 +412,4 @@
 - 2023-02-14: Typo fix
 - 2024-02-27: Refine text
 - 2024-06-23: Add remark
+- 2024-05-11: Polish docs
