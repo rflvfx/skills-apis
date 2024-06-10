@@ -127,3 +127,4 @@
 - 2024-10-18: Clarify section
 - 2024-06-10: Add remark
 - 2024-01-07: Typo fix
+- 2024-06-10: Improve docs
