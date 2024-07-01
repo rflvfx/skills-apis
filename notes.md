@@ -128,3 +128,4 @@
 - 2024-06-10: Add remark
 - 2024-01-07: Typo fix
 - 2024-06-10: Improve docs
+- 2024-07-01: Adjust content
