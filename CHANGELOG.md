@@ -23,3 +23,4 @@
 - 2022-11-05: Document rate limiting
 - 2023-03-19: Add response caching notes
 - 2024-05-07: Expand api authentication docs
+- 2024-08-01: Document response envelopes
