@@ -430,3 +430,4 @@
 - 2024-10-02: Review content
 - 2024-02-01: Adjust content
 - 2024-03-12: Minor update
+- 2024-08-15: Typo fix
