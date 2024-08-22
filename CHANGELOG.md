@@ -415,3 +415,4 @@
 - 2024-05-11: Polish docs
 - 2024-03-27: Minor update
 - 2024-07-10: Update guide
+- 2024-08-22: Clarify section
