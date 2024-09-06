@@ -122,3 +122,4 @@
 - 2024-05-04: Minor update
 - 2024-01-22: Adjust content
 - 2024-09-06: Add note
+- 2024-09-06: Refine text
