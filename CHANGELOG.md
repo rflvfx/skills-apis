@@ -417,3 +417,4 @@
 - 2024-07-10: Update guide
 - 2024-08-22: Clarify section
 - 2024-01-12: Fix example
+- 2024-10-10: Typo fix
