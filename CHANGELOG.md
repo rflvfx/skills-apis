@@ -437,3 +437,4 @@
 - 2024-09-02: Review content
 - 2024-07-26: Expand section
 - 2024-12-02: Add detail
+- 2024-10-15: Add detail
