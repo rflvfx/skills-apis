@@ -130,3 +130,4 @@
 - 2024-06-10: Improve docs
 - 2024-07-01: Adjust content
 - 2024-11-24: Review content
+- 2024-11-04: Fix example
