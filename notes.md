@@ -123,3 +123,4 @@
 - 2024-01-22: Adjust content
 - 2024-09-06: Add note
 - 2024-09-06: Refine text
+- 2024-11-06: Update guide
