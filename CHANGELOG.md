@@ -426,3 +426,4 @@
 - 2024-01-07: Adjust content
 - 2024-04-05: Clarify section
 - 2024-12-23: Adjust content
+- 2024-11-15: Add detail
