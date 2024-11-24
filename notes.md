@@ -129,3 +129,4 @@
 - 2024-01-07: Typo fix
 - 2024-06-10: Improve docs
 - 2024-07-01: Adjust content
+- 2024-11-24: Review content
