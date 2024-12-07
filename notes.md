@@ -113,3 +113,4 @@
 - 2023-02-16: Adjust content
 - 2023-01-08: Small fix
 - 2023-10-28: Polish docs
+- 2024-12-07: Minor update
