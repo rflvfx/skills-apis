@@ -440,3 +440,4 @@
 - 2024-10-15: Add detail
 - 2024-04-25: Add note
 - 2024-05-04: Typo fix
+- 2024-12-10: Improve docs
