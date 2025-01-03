@@ -485,3 +485,4 @@
 - 2025-12-10: Polish docs
 - 2025-01-17: Update notes
 - 2025-11-16: Review content
+- 2025-01-03: Add note
