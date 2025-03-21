@@ -133,3 +133,4 @@
 - 2024-11-04: Fix example
 - 2025-11-17: Add note
 - 2025-02-04: Add note
+- 2025-03-21: Expand section
