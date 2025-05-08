@@ -137,3 +137,4 @@
 - 2025-04-15: Fix example
 - 2025-03-01: Expand section
 - 2025-06-20: Review content
+- 2025-05-08: Update guide
