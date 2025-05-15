@@ -25,3 +25,4 @@
 - 2024-05-07: Expand api authentication docs
 - 2024-08-01: Document response envelopes
 - 2025-03-06: Add health checks examples
+- 2025-05-15: Add request logging notes
