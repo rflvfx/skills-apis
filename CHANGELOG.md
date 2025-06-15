@@ -488,3 +488,4 @@
 - 2025-01-03: Add note
 - 2025-05-15: Minor update
 - 2025-09-27: Typo fix
+- 2025-06-15: Improve docs
