@@ -143,3 +143,4 @@
 - 2025-03-27: Small fix
 - 2025-08-10: Add remark
 - 2025-07-22: Improve docs
+- 2025-06-19: Refine text
