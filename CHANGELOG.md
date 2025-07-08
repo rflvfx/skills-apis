@@ -26,3 +26,4 @@
 - 2024-08-01: Document response envelopes
 - 2025-03-06: Add health checks examples
 - 2025-05-15: Add request logging notes
+- 2025-07-08: Add timeout handling notes
