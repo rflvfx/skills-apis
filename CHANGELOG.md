@@ -449,3 +449,4 @@
 - 2024-03-22: Small fix
 - 2024-09-21: Add remark
 - 2025-02-04: Improve docs
+- 2025-09-03: Update notes
