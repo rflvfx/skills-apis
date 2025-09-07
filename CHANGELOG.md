@@ -470,3 +470,4 @@
 - 2025-04-27: Fix example
 - 2025-02-27: Improve docs
 - 2025-03-17: Add remark
+- 2025-09-07: Update guide
