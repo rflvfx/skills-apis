@@ -138,3 +138,4 @@
 - 2025-03-01: Expand section
 - 2025-06-20: Review content
 - 2025-05-08: Update guide
+- 2025-10-09: Refine text
