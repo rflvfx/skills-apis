@@ -474,3 +474,4 @@
 - 2025-10-07: Improve docs
 - 2025-12-21: Typo fix
 - 2025-04-04: Review content
+- 2025-10-18: Update notes
