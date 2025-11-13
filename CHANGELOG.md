@@ -466,3 +466,4 @@
 - 2025-01-22: Clarify section
 - 2025-02-20: Small fix
 - 2025-06-09: Fix example
+- 2025-11-13: Typo fix
