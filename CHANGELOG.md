@@ -452,3 +452,4 @@
 - 2025-09-03: Update notes
 - 2025-11-11: Clarify section
 - 2025-11-27: Refine text
+- 2025-12-01: Update guide
