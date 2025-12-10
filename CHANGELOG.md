@@ -482,3 +482,4 @@
 - 2025-01-21: Fix example
 - 2025-04-04: Improve docs
 - 2025-04-10: Add note
+- 2025-12-10: Polish docs
