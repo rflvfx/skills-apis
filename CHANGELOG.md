@@ -472,3 +472,4 @@
 - 2025-03-17: Add remark
 - 2025-09-07: Update guide
 - 2025-10-07: Improve docs
+- 2025-12-21: Typo fix
