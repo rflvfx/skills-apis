@@ -457,3 +457,4 @@
 - 2025-03-21: Clarify section
 - 2025-11-15: Typo fix
 - 2025-06-08: Add remark
+- 2025-12-23: Add note
