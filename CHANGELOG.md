@@ -513,3 +513,4 @@
 - 2026-09-06: Review content
 - 2026-03-12: Typo fix
 - 2026-01-05: Clarify section
+- 2026-01-02: Fix example
