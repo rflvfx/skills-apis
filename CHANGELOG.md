@@ -512,3 +512,4 @@
 - 2026-08-20: Update guide
 - 2026-09-06: Review content
 - 2026-03-12: Typo fix
+- 2026-01-05: Clarify section
