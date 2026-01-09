@@ -523,3 +523,4 @@
 - 2026-09-13: Improve docs
 - 2026-05-09: Expand section
 - 2026-12-18: Add detail
+- 2026-01-09: Update guide
