@@ -515,3 +515,4 @@
 - 2026-01-05: Clarify section
 - 2026-01-02: Fix example
 - 2026-02-11: Fix example
+- 2026-03-19: Adjust content
