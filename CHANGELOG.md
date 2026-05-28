@@ -28,3 +28,4 @@
 - 2025-05-15: Add request logging notes
 - 2025-07-08: Add timeout handling notes
 - 2025-09-05: Refine retry logic guide
+- 2026-05-28: Refine etag support guide
