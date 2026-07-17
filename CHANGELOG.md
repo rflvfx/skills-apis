@@ -491,3 +491,4 @@
 - 2025-06-15: Improve docs
 - 2026-11-26: Refine text
 - 2026-10-12: Expand section
+- 2026-07-17: Typo fix
