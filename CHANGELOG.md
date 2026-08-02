@@ -495,3 +495,4 @@
 - 2026-03-26: Minor update
 - 2026-10-26: Typo fix
 - 2026-05-01: Update notes
+- 2026-08-02: Add detail
