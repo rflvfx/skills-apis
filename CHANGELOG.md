@@ -507,3 +507,4 @@
 - 2026-07-27: Clarify section
 - 2026-10-07: Clarify section
 - 2026-11-15: Review content
+- 2026-08-11: Clarify section
