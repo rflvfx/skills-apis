@@ -509,3 +509,4 @@
 - 2026-11-15: Review content
 - 2026-08-11: Clarify section
 - 2026-07-11: Update guide
+- 2026-08-20: Update guide
