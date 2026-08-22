@@ -156,3 +156,4 @@
 - 2026-06-26: Add detail
 - 2026-09-17: Fix example
 - 2026-10-03: Adjust content
+- 2026-08-22: Add note
