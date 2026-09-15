@@ -11,4 +11,5 @@ app.get('/produtos/:id', (req, res) => {
 });
 app.post('/produtos', (req, res) => { produtos.push({ id: produtos.length + 1, ...req.body }); res.status(201).json(produtos.at(-1)); });
 
-app.listen(3000, () => console.log('API em http://localhost:3000/produtos'));
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => console.log(`API em http://localhost:${PORT}/produtos`));
