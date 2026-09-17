@@ -154,3 +154,4 @@
 - 2026-06-03: Fix example
 - 2026-12-12: Minor update
 - 2026-06-26: Add detail
+- 2026-09-17: Fix example
