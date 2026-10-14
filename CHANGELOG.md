@@ -500,3 +500,4 @@
 - 2026-12-11: Small fix
 - 2026-03-20: Improve docs
 - 2026-08-15: Expand section
+- 2026-10-14: Improve docs
