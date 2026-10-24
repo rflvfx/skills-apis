@@ -29,3 +29,4 @@
 - 2025-07-08: Add timeout handling notes
 - 2025-09-05: Refine retry logic guide
 - 2026-05-28: Refine etag support guide
+- 2026-10-24: Refine rate limiting guide
